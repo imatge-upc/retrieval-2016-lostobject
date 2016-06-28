@@ -55,7 +55,7 @@ This work explores diverse practices for conducting an object search from large 
 [Our extended abstract](http://www.cbi.gatech.edu/fpv2016/abstracts/where_phone_abstract.pdf) is open published. 
 
 
-![Image of the paper](https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/figs/paper.jpg)
+![Image of the paper](https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/paper.jpg?token=AKsMd7-RJTppjPuOJ8WVq6j4BqCjvg6Sks5Xe-BSwA%3D%3D)
 
 Please cite with the following Bibtex code:
 
