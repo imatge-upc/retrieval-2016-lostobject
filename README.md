@@ -12,16 +12,16 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 |:-:|:-:|:-:|:-:|:-:|
 | Cristian Reyes  |  [Elisa Sayrol][EvaMohedano-web]  | [Kevin McGuinness][KevinMcGuinness-web]   | [Noel O'Connor][NoelOConnor-web]   | [Xavier Giro-i-Nieto][XavierGiro-web]   |
 
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
+[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
-[CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/CristianReyes.jpg "Cristian Reyes"
-[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/KevinMcGuinness.jpg "Kevin McGuinness"
-[ElisaSayrol-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/ElisaSayrol.jpg "Elisa Sayrol"
-[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/NoelOConnor.jpg "Noel O'Connor"
-[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Cristian.jpg "Cristian Reyes"
+[EvaMohedano-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Eva.jpg "Eva Mohedano"
+[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Kevin.jpg "Kevin McGuinness"
+[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Noel.jpg "Noel O'Connor"
+[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Xavi.jpg "Xavier Giro-i-Nieto"
 
 
 A joint collaboration between:
