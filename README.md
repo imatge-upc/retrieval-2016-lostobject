@@ -8,7 +8,7 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 
 [logo-cvpr]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/logos/cvpr2016.jpg "CVPR 2016 logo"
 
-| ![Cristian Reyes][CristianReyes-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
+| ![Cristian Reyes][CristianReyes-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
 |:-:|:-:|:-:|:-:|:-:|
 | Cristian Reyes  |  [Elisa Sayrol][EvaMohedano-web]  | [Kevin McGuinness][KevinMcGuinness-web]   | [Noel O'Connor][NoelOConnor-web]   | [Xavier Giro-i-Nieto][XavierGiro-web]   |
 
@@ -55,7 +55,7 @@ This work explores diverse practices for conducting an object search from large 
 [Our extended abstract](http://www.cbi.gatech.edu/fpv2016/abstracts/where_phone_abstract.pdf) is open published. 
 
 
-![Image of the paper](https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/paper.jpg?token=AKsMd7-RJTppjPuOJ8WVq6j4BqCjvg6Sks5Xe-BSwA%3D%3D)
+![Image of the paper](https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/paper.jpeg?token=AKsMd76S7tGV3VaBNTvSyNy88dwaae2cks5Xe-R0wA%3D%3D)
 
 Please cite with the following Bibtex code:
 
