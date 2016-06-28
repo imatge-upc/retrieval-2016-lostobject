@@ -19,11 +19,11 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 
 https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors
 
-[CristianReyes-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Cristian.jpg "Cristian Reyes"
-[EvaMohedano-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Eva.jpg "Eva Mohedano"
-[KevinMcGuinness-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Kevin.jpg "Kevin McGuinness"
-[NoelOConnor-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Noel.jpg "Noel O'Connor"
-[XavierGiro-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Xavi.jpg "Xavier Giro-i-Nieto"
+[CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Cristian.jpg?token=AKsMd3RhsYHhgtl0Hwj9D0XFYvWbS9Zdks5Xe99xwA%3D%3D "Cristian Reyes"
+[EvaMohedano-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Eva.jpg?token=AKsMd4iuttxHH44mYL3mPpJEtSvXVXF8ks5Xe-AWwA%3D%3D "Eva Mohedano"
+[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Kevin.jpg?token=AKsMd4VU31T7Bh8CztufWEWNudazbB_Uks5Xe-AxwA%3D%3D "Kevin McGuinness"
+[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Noel.jpg?token=AKsMdyemO5eJke9B9rqdRtA7otJscq1wks5Xe-BEwA%3D%3D "Noel O'Connor"
+[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Xavi.jpg?token=AKsMd7-RJTppjPuOJ8WVq6j4BqCjvg6Sks5Xe-BSwA%3D%3D "Xavier Giro-i-Nieto"
 
 
 A joint collaboration between:
