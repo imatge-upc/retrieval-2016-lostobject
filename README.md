@@ -8,7 +8,7 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 
 [logo-cvpr]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/logos/cvpr2016.jpg "CVPR 2016 logo"
 
-| ![Cristian Reyes][CristianReyes-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
+| ![Cristian Reyes][CristianReyes-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
 |:-:|:-:|:-:|:-:|:-:|
 | Cristian Reyes  |  [Elisa Sayrol][EvaMohedano-web]  | [Kevin McGuinness][KevinMcGuinness-web]   | [Noel O'Connor][NoelOConnor-web]   | [Xavier Giro-i-Nieto][XavierGiro-web]   |
 
@@ -17,11 +17,13 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 [NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
-[CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Cristian.jpg "Cristian Reyes"
-[EvaMohedano-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Eva.jpg "Eva Mohedano"
-[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Kevin.jpg "Kevin McGuinness"
-[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Noel.jpg "Noel O'Connor"
-[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Xavi.jpg "Xavier Giro-i-Nieto"
+https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors
+
+[CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Cristian.jpg "Cristian Reyes"
+[EvaMohedano-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Eva.jpg "Eva Mohedano"
+[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Kevin.jpg "Kevin McGuinness"
+[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Noel.jpg "Noel O'Connor"
+[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Xavi.jpg "Xavier Giro-i-Nieto"
 
 
 A joint collaboration between:
