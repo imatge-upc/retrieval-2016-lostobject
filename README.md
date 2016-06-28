@@ -19,11 +19,11 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 
 https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors
 
-[CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Cristian.jpg "Cristian Reyes"
-[EvaMohedano-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Eva.jpg "Eva Mohedano"
-[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Kevin.jpg "Kevin McGuinness"
-[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Noel.jpg "Noel O'Connor"
-[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Xavi.jpg "Xavier Giro-i-Nieto"
+[CristianReyes-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Cristian.jpg "Cristian Reyes"
+[EvaMohedano-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Eva.jpg "Eva Mohedano"
+[KevinMcGuinness-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Kevin.jpg "Kevin McGuinness"
+[NoelOConnor-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Noel.jpg "Noel O'Connor"
+[XavierGiro-photo]: https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors/Xavi.jpg "Xavier Giro-i-Nieto"
 
 
 A joint collaboration between:
