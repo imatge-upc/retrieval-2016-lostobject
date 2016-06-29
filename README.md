@@ -17,7 +17,6 @@ Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs.
 [NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
-https://github.com/imatge-upc/retrieval-2016-lostobject/tree/master/authors
 
 [CristianReyes-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Cristian.jpg?token=AKsMd3RhsYHhgtl0Hwj9D0XFYvWbS9Zdks5Xe99xwA%3D%3D "Cristian Reyes"
 [EvaMohedano-photo]: https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/Eva.jpg?token=AKsMd4iuttxHH44mYL3mPpJEtSvXVXF8ks5Xe-AWwA%3D%3D "Eva Mohedano"
