@@ -1,5 +1,4 @@
-# retrieval-2016-lostobject
-Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs. 
+# Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs. 
 
 
 |  ![CVPR 2016 logo][logo-cvpr] | Extended Abstract accepted at [4th Workshop on Egocentric (First-Person) Vision, 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](http://www.cbi.gatech.edu/fpv2016/index.html)   |
