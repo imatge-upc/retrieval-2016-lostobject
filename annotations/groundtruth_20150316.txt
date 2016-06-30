@@ -1,0 +1,6 @@
+#Annotations: category;[relevant_images];
+
+mobile_phone;b00003351_21i6bq_20150316_232821e.jpg;;;
+watch;b00003349_21i6bq_20150316_232707e.jpg;;;
+headphones;b00002176_21i6bq_20150316_134133e.jpg;;;
+laptop;b00003294_21i6bq_20150316_225344e.jpg;;;
