@@ -9,8 +9,9 @@
 
 | ![Cristian Reyes][CristianReyes-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
 |:-:|:-:|:-:|:-:|:-:|
-| Cristian Reyes  |  [Eva Mohedano][EvaMohedano-web]  | [Kevin McGuinness][KevinMcGuinness-web]   | [Noel O'Connor][NoelOConnor-web]   | [Xavier Giro-i-Nieto][XavierGiro-web]   |
+| [Cristian Reyes][CristianReyes-web]  |  [Eva Mohedano][EvaMohedano-web]  | [Kevin McGuinness][KevinMcGuinness-web]   | [Noel O'Connor][NoelOConnor-web]   | [Xavier Giro-i-Nieto][XavierGiro-web]   |
 
+[CristianReyes-web]: https://www.linkedin.com/in/cristianreyesrodriguez
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
