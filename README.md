@@ -50,7 +50,7 @@ This work explores diverse practices for conducting an object search from large 
 
 ## Publication
 
-[Our extended abstract](http://www.cbi.gatech.edu/fpv2016/abstracts/where_phone_abstract.pdf) is open published. 
+[Our extended abstract](https://goo.gl/RsrUa5) is open published. 
 
 
 ![Image of the paper](https://raw.githubusercontent.com/imatge-upc/retrieval-2016-lostobject/master/authors/paper.jpeg?token=AKsMd76S7tGV3VaBNTvSyNy88dwaae2cks5Xe-R0wA%3D%3D)
