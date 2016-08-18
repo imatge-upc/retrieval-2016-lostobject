@@ -23,25 +23,15 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">Time-sensitive Egocentric Image Retrieval for Fidings Objects in Lifelogs</h1>
-      <h2 class="project-tagline">4th Workshop on Egocentric (First-Person) Vision, CVPR 2016 </h2>
+      <h1 class="project-name">Where is my Phone ? Personal Object Retrieval from Egocentric Images</h1>
+      <h2 class="project-tagline">Lifelogging Tools and Applications Workshop, ACM Multimedia 2016</h2>
       <a href="https://github.com/imatge-upc/retrieval-2016-lostobject" class="btn">View on GitHub</a>
       <a href="https://github.com/imatge-upc/retrieval-2016-lostobject/zipball/master" class="btn">Download .zip</a>
       <a href="https://github.com/imatge-upc/retrieval-2016-lostobject/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
-<table>
-<thead>
-<tr>
-<th align="center"><img src="https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/logos/cvpr2016.jpg" alt="CVPR 2016 logo" title="CVPR 2016 logo"></th>
-<th>Extended Abstract accepted at <a href="http://www.cbi.gatech.edu/fpv2016/index.html">4th Workshop on Egocentric (First-Person) Vision, 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</a>
-</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+
 
 <table>
 <thead>
@@ -90,11 +80,19 @@
 <h2>
 <a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Abstract</h2>
 
-<p>This work explores diverse practices for conducting an object search from large amounts of egocentric images taking into account their temporal information. The application of this technology is to identify where personal belongings were lost or forgotten. We develop a pipeline-structured system. Firstly, the images of the day being scanned are sorted based on their probability to depict the forgotten object. This stage is solved by applying an existing visual search engine based on deep learning features. Secondly, a learned threshold selects the top ranked images as candidates to contain the object. Finally the images are reranked based on temporal and diversity criteria. Furthermore, we build a validation environment for assessing the system's performance aiming to find the optimal configuration of its parameters. Due to the lack of related works to be compared with, this work proposes an novel evaluation framework and metric to assess the problem.</p>
+<p>This work presents a retrieval pipeline and evaluation scheme for the problem of finding the last appearance of personal objects in a large dataset of images captured from a wearable camera. Each personal object is modelled by a small set of images that define a query for a visual search engine.The retrieved results are reranked considering the temporal timestamps of the images to increase the relevance of the later detections. Finally, a temporal interleaving of the results is introduced for robustness against false detections. The Mean Reciprocal Rank is proposed as a metric to evaluate this problem. This application could help into developing personal assistants capable of helping users when they do not remember where they left their personal belongings.</p>
 
 <h2>
+<center>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/w_gmsikRLgA" frameborder="0" allowfullscreen></iframe>
+<br>
+<Br>
+  
 <a id="abstract" class="anchor" href="#slides" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Slides</h2>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/j0lAOByJ9le393" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/xavigiro/tfg-cristian-reyes-time-sensitive-egocentric-image-retrieval-for-finding-objects-in-lifelogs" title="Time sensitive egocentric image retrieval for finding objects in lifelogs" target="_blank">Time sensitive egocentric image retrieval for finding objects in lifelogs</a> </strong> from <strong><a href="//www.slideshare.net/xavigiro" target="_blank">Xavier Giro</a></strong> </div>
+
+</center>
 
 <h2>
 <a id="publication" class="anchor" href="#publication" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Publication</h2>
